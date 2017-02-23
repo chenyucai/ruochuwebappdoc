@@ -12,9 +12,9 @@
   - [预览图片](zh-cn/wx/preview)
   - [分享](zh-cn/wx/share)
 
-<!-- - 管理端框架
+- 管理端框架
  - [页面结构](zh-cn/manage/pages)
- - [common库](zh-cn/manage/common) -->
+ - [common库](zh-cn/manage/common)
 
 <!-- - common库
   - [ajax](zh-cn/common/ajax)
