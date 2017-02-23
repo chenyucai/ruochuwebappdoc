@@ -95,11 +95,5 @@ Backbone配合使用任何JavaScript模板库渲染界面（目前系统使用�
 > 参考资料
 
 - backbone.js: [http://www.css88.com/doc/backbone/][1]
-<!-- - require.js: [http://www.requirejs.cn/][2]
-- zepto.js: [http://www.css88.com/doc/zeptojs_api/][3]
-- underscore.js: [http://www.css88.com/doc/underscore/][4] -->
 
 [1]: http://www.css88.com/doc/backbone/ "backbone"
-<!-- [2]: http://www.requirejs.cn/ "require"
-[3]: http://www.css88.com/doc/zeptojs_api/ "zepto"
-[4]: http://www.css88.com/doc/underscore/ "underscore" -->
