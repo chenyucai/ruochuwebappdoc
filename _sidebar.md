@@ -2,7 +2,6 @@
  - [backbone](zh-cn/base/backbone)
  - [require](zh-cn/base/require)
  - [页面结构](zh-cn/base/pages)
- - [路由](zh-cn/base/router)
  - [common库](zh-cn/base/common)
  <!-- - [存在问题](zh-cn/base/cover) -->
 
